@@ -19,6 +19,7 @@ namespace RPSLS.Controllers
     }
 
     [HttpPost("play")]
+    [Route("FetchRPSLS")]
     public ActionResult<GameResult> Play([FromBody] PlayerMove playerMove)
     {
         // Check if move is valid

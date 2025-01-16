@@ -1,0 +1,11 @@
+C:\Users\ianch\OneDrive\Documents\CODESTACK\Level 2 Assignments\RPSLS\bin\Release\net8.0\publish\RPSLS.exe
+C:\Users\ianch\OneDrive\Documents\CODESTACK\Level 2 Assignments\RPSLS\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\ianch\OneDrive\Documents\CODESTACK\Level 2 Assignments\RPSLS\bin\Release\net8.0\publish\appsettings.json
+C:\Users\ianch\OneDrive\Documents\CODESTACK\Level 2 Assignments\RPSLS\bin\Release\net8.0\publish\RPSLS.dll
+C:\Users\ianch\OneDrive\Documents\CODESTACK\Level 2 Assignments\RPSLS\bin\Release\net8.0\publish\RPSLS.deps.json
+C:\Users\ianch\OneDrive\Documents\CODESTACK\Level 2 Assignments\RPSLS\bin\Release\net8.0\publish\RPSLS.runtimeconfig.json
+C:\Users\ianch\OneDrive\Documents\CODESTACK\Level 2 Assignments\RPSLS\bin\Release\net8.0\publish\RPSLS.pdb
+C:\Users\ianch\OneDrive\Documents\CODESTACK\Level 2 Assignments\RPSLS\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\ianch\OneDrive\Documents\CODESTACK\Level 2 Assignments\RPSLS\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ianch\OneDrive\Documents\CODESTACK\Level 2 Assignments\RPSLS\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ianch\OneDrive\Documents\CODESTACK\Level 2 Assignments\RPSLS\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
